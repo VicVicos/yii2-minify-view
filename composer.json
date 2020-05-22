@@ -25,7 +25,8 @@
   ],
   "require": {
     "yiisoft/yii2": "^2.0",
-    "mrclay/minify": "^3.0"
+    "mrclay/minify": "^3.0",
+    "ext-mbstring": "*"
   },
   "autoload": {
     "psr-4": {
