@@ -12,7 +12,7 @@ use yii\helpers\Html;
 
 /**
  * Class JS
- * @package rmrevin\yii\minify\components
+ * @package vicvicos\yii\minify\components
  */
 class JS extends MinifyComponent
 {

@@ -11,7 +11,7 @@ use yii\helpers\Html;
 
 /**
  * Class CSS
- * @package rmrevin\yii\minify\components
+ * @package vicvicos\yii\minify\components
  */
 class CSS extends MinifyComponent
 {
