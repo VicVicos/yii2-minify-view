@@ -5,7 +5,7 @@
  * @link https://rmrevin.ru
  */
 
-namespace rmrevin\yii\minify;
+namespace vicvicos\yii\minify;
 
 use yii\base\Event;
 use yii\helpers\FileHelper;
