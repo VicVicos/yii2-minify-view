@@ -14,7 +14,7 @@ use yii\web\Response;
 
 /**
  * Class View
- * @package rmrevin\yii\minify
+ * @package vicvicos\yii\minify
  */
 class View extends \yii\web\View
 {

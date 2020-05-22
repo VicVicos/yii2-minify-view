@@ -13,7 +13,7 @@ use yii\caching\TagDependency;
 
 /**
  * Class MinifyComponent
- * @package rmrevin\yii\minify\components
+ * @package vicvicos\yii\minify\components
  */
 abstract class MinifyComponent
 {
