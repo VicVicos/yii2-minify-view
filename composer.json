@@ -1,5 +1,5 @@
 {
-  "name": "rmrevin/yii2-minify-view",
+  "name": "vicvicos/yii2-minify-view",
   "description": "Yii2 View component with auto minification css & js in runtime",
   "keywords": [
     "yii2",
