@@ -55,6 +55,9 @@ return [
 			'minifyCss' => true, // minificate css
 			'concatJs' => true, // concatenate js
 			'minifyJs' => true, // minificate js
+            'cssOptions' => [ // Options css
+                "preload" => true // preload css files
+            ],
 			'minifyOutput' => true, // minificate result html page
 			'webPath' => '@web', // path alias to web base
 			'basePath' => '@webroot', // path alias to web base
