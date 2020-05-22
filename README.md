@@ -18,7 +18,7 @@ Code Status
 
 Support
 -------
-[GutHub issues](https://github.com/rmrevin/yii2-minify-view/issues) or [public chat](https://gitter.im/rmrevin/support).
+[GutHub issues](https://github.com/vicvicos/yii2-minify-view/issues) or [public chat](https://gitter.im/rmrevin/support).
 
 Installation
 ------------
@@ -49,7 +49,7 @@ return [
 	'components' => [
 		// ...
 		'view' => [
-			'class' => '\rmrevin\yii\minify\View',
+			'class' => '\vicvicos\yii\minify\View',
 			'enableMinify' => !YII_DEBUG,
 			'concatCss' => true, // concatenate css
 			'minifyCss' => true, // minificate css
